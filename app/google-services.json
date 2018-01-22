@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482264510627",
+    "firebase_url": "https://simplepushnotif-4a966.firebaseio.com",
+    "project_id": "simplepushnotif-4a966",
+    "storage_bucket": "simplepushnotif-4a966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482264510627:android:fff8e4bb8566b55a",
+        "android_client_info": {
+          "package_name": "com.example.hafid.simplepushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482264510627-djg1o02temj3u0t3l1o41etrr6cg3o47.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hafid.simplepushnotif",
+            "certificate_hash": "9317e5f1ce12d40bd02a94276000f7d5237213a8"
+          }
+        },
+        {
+          "client_id": "482264510627-ivv22unlq82qskusriim2t9a9dqoaect.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkoh_YBpSz5dB7EyS69iKp22M3nH9a0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482264510627-ivv22unlq82qskusriim2t9a9dqoaect.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
